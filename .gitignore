@@ -1,0 +1,16 @@
+# Local data
+data/
+IBM_stock_history.csv
+# Credentials and local configuration
+.env
+.env.*
+.databrickscfg
+.databricks/
+# Python and notebook temporary files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# macOS
+.DS_Store
